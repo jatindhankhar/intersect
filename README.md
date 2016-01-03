@@ -2,7 +2,7 @@
 Application for propagating notifications via Email and SMS
 
 # Demo
-<img src="sms.png" height="50%">
+<img src="sms.png" height="400">
 
 # Copyright and License
 
